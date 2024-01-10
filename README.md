@@ -10,8 +10,9 @@ Default reference genome is mm10 (GENCODE M25)</br>
 
 ## Basic Usage
 
-1. Open the terminal
-2. Type in "bash" and drag and drop the xxx.sh file
+1. Download and edit the template codes
+2. Open the terminal
+3. Type in "bash" and drag and drop the xxx.sh file
 
 ```
 bash xxx.sh
