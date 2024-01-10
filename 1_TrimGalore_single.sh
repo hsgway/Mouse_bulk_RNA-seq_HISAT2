@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # directory
-dir="/Volumes/Expansion/Bulk_RNAseq_Run/FASTQ/FC_07453/Unaligned_12_PF_mm1/Data/Project_hullahalli"
+dir="/Volumes/Expansion/Bulk_RNAseq_Run/FASTQ"
 outdir="/Volumes/Expansion/Bulk_RNAseq_Run/FASTQ_trimmed"
 
 mkdir $outdir
