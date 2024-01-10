@@ -7,5 +7,5 @@ dir="/Volumes/Expansion/Bulk_RNAseq_Run/FASTQ_trimmed"
 cd $dir
 
 # rename files
-rename -e 's/LIB055794_//' *.fq.gz
-rename -e 's/LIB055794_//' *.txt
+rename -e 's/LIBxxxxx_//' *.fq.gz
+rename -e 's/LIBxxxxx_//' *.txt
